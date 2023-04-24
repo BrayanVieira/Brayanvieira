@@ -9,7 +9,7 @@ Estou sempre em busca de aprender e me desenvolver na área de tecnologia, entã
 <h1 align="center">Welcome to my GitHub profile</h1>
 <h3 align="center">Hello! My name is Brayan Gonçalves Vieira, I studied Analytics and Systems Engineering at UNIP and Programming at Hashtag. With one year of experience in the IT field, I was able to improve my technical support and network management skills. I recently started learning Python programming and I fell in love with the programming language
 
-In this Github profile you can find some of my personal Python projects and other contributions and collaborations to open source projects. Feel free to browse my repository and leave comments, many thanks!
+In this Github profile you can find some of my personal Python projects and other contributions and collaborations to open source projects. Feel free to browse my repository and leave comments, thanks!
 
 
 I am always looking to learn and develop myself in the field of technology. So feel free to contact me if you have any project proposals or would like to discuss ideas.</h3>
