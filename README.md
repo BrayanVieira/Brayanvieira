@@ -14,8 +14,6 @@ In this Github profile you can find some of my personal Python projects and othe
 
 I am always looking to learn and develop myself in the field of technology. So feel free to contact me if you have any project proposals or would like to discuss ideas.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brayanvieira&label=Profile%20views&color=0e75b6&style=flat" alt="brayanvieira" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="[https://linkedin.com/in/brayan gonçalves vieira](https://www.linkedin.com/in/brayan-gon%C3%A7alves-vieira-3b7533256/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brayan gonçalves vieira" height="30" width="40" /></a>
