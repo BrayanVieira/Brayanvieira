@@ -1,5 +1,18 @@
-<h1 align="center">Olá! Meu nome é Brayan Gonçalves Vieira</h1>
-<h3 align="center">teste</h3>
+<h1 align="center">Bem vindo ao meu perfil do GitHub</h1>
+<h3 align="center">Olá! Meu nome é Brayan Gonçalves Vieira, sou aluno de análise e desenvolvimento de sistemas na UNIP e aluno de programação na Hashtag. Com um ano de experiência na área de TI, pude aprimorar minhas habilidades de suporte técnico e gerenciamento de rede. Recentemente comecei a aprender programação em Python e me apaixonei pela linguagem e suas possibilidades.
+
+Neste perfil do Github, você encontrará alguns dos meus projetos pessoais em Python, bem como outras contribuições e colaborações para projetos de código aberto. Sinta-se à vontade para explorar meu repositório e deixar comentários, muito obrigado!
+
+Estou sempre em busca de aprender e me desenvolver na área de tecnologia, então caso você tenha propostas de projetos ou queira discutir ideias, fique à vontade para entrar em contato. 
+</h3>
+
+<h1 align="center">Welcome to my GitHub profile</h1>
+<h3 align="center">Hello! My name is Brayan Gonçalves Vieira, I studied Analytics and Systems Engineering at UNIP and Programming at Hashtag. With one year of experience in the IT field, I was able to improve my technical support and network management skills. I recently started learning Python programming and I fell in love with the programming language
+
+In this Github profile you can find some of my personal Python projects and other contributions and collaborations to open source projects. Feel free to browse my repository and leave comments, many thanks!
+
+
+I am always looking to learn and develop myself in the field of technology. So feel free to contact me if you have any project proposals or would like to discuss ideas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brayanvieira&label=Profile%20views&color=0e75b6&style=flat" alt="brayanvieira" /> </p>
 
