@@ -12,9 +12,9 @@ In this Github profile you can find some of my personal Python projects and othe
 
 I am always looking to learn and develop myself in the field of technology. So feel free to contact me if you have any project proposals or would like to discuss ideas.</h3>
   
- <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/brayan goncalves vieira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brayan-goncalves-vieira" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/brayan-gon%C3%A7alves-vieira-3b7533256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 
