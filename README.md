@@ -23,3 +23,8 @@ I am always looking to learn and develop myself in the field of technology. So f
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brayanvieira&show_icons=true&locale=en" alt="brayanvieira" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brayanvieira&" alt="brayanvieira" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/brayan-gon%c3%a7alves-vieira-3b7533256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brayan-gon%c3%a7alves-vieira-3b7533256/" height="30" width="40" /></a>
+</p>
