@@ -1,28 +1,210 @@
-<h1 align="center">Bem vindo ao meu perfil do GitHub</h1>
-<h3 align="left">Olá! Meu nome é Brayan Gonçalves Vieira, estou aprendendo análise e desenvolvimento de sistemas na UNIP. Com um ano de experiência na área de TI, pude aprimorar minhas habilidades de suporte técnico e gerenciamento de rede. Recentemente comecei a aprender programação em Python e me apaixonei pela linguagem e suas possibilidades.
+me ajude a melhorar a parte do Github insights
 
-Neste perfil do Github, você encontrará alguns dos meus projetos pessoais em Python, bem como outras contribuições e colaborações para projetos de código aberto. Sinta-se à vontade para explorar meu repositório e deixar comentários, muito obrigado!
-
-Estou sempre em busca de aprender e me desenvolver na área de tecnologia, então caso você tenha propostas de projetos ou queira discutir ideias, fique à vontade para entrar em contato. 
-
-<h1 align="center">Welcome to my GitHub profile</h1>
-<h3 align="left">Hello! My name is Brayan Gonçalves Vieira, I studied Analytics and Systems Engineering at UNIP. With one year of experience in the IT field, I was able to improve my technical support and network management skills. I recently started learning Python programming and I fell in love with the programming language
-
-In this Github profile you can find some of my personal Python projects and other contributions and collaborations to open source projects. Feel free to browse my repository and leave comments, thanks!
-
-I am always looking to learn and develop myself in the field of technology. So feel free to contact me if you have any project proposals or would like to discuss ideas.</h3>
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/brayan-gon%C3%A7alves-vieira-3b7533256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<!-- Banner animado moderno -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:33ccff,100:000000&height=230&section=header&text=Brayan%20Gonçalves%20Vieira&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<!-- Letreiro animado -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Fullstack+apaixonado+por+tecnologia.;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+# 🌐 Idioma / Language
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brayanvieira&show_icons=true&locale=en" alt="brayanvieira" /></p>
+<details open>
+  <summary>🇧🇷 Português (clique para expandir)</summary>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brayanvieira&" alt="brayanvieira" /></p>
+## 👨‍💻 Sobre mim
 
+Sou um **Desenvolvedor Fullstack** com mais de **3 anos de experiência**, unindo desenvolvimento de software, infraestrutura de TI e suporte técnico.
+
+Busco criar soluções modernas e escaláveis, com foco na experiência do usuário e entrega de valor. Sou apaixonado por aprender novas tecnologias, trabalhar em equipe e resolver problemas de forma criativa e eficaz.
+
+---
+
+## 🎓 Educação & Certificações
+
+### 🎓 Formação Acadêmica
+- **Cruzeiro do Sul (2022–2025)**  
+  ✅ Análise e Desenvolvimento de Sistemas – **Concluído**
+
+### 🧠 Cursos e Especializações
+
+**HashTag Treinamentos**
+- 2023: Python Impressionador – ✅ Concluído  
+- 2023: HTML & CSS – ✅ Concluído  
+- 2023: VBA – ✅ Concluído  
+- 2023: Inteligência Artificial – ✅ Concluído  
+- 2024: JavaScript – ✅ Concluído  
+- 2024: SQL – ✅ Concluído  
+
+**Udemy**
+- 2022: Design Gráfico com Corel Draw – ✅ Concluído  
+- 2022: Leitura e Interpretação de Desenho Mecânico – ✅ Concluído  
+
+**Data Science Academy**
+- 2022: Big Data Fundamentos – ✅ Concluído  
+- 2022: Introdução à Ciência de Dados – ✅ Concluído  
+
+**DIO**
+- 2023: Introdução UI/UX – ✅ Concluído  
+
+**CNA**
+- 2024: Inglês Avançado (Fluente) – ✅ Concluído  
+
+---
+
+## 💡 Habilidades & Características
+
+- ✅ Pensamento Crítico  
+- ✅ Suporte sob Pressão  
+- ✅ Liderança  
+- ✅ Gestão de Projetos  
+- ✅ Solução de Problemas  
+- ✅ Comunicação Eficaz  
+- ✅ Foco em Segurança  
+- ✅ Adaptabilidade e Flexibilidade  
+- ✅ Tomada de Decisão  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,python,flask,nodejs,express,mysql,postgres,mongodb,docker,git,github,linux,figma,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brayanvieira&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=brayanvieira&theme=radical&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brayanvieira&theme=react-dark&area=true&hide_border=true" width="95%" />
+</p>
+
+---
+
+## 📂 Projetos em Destaque
+
+<p align="center">
+  <a href="https://github.com/brayanvieira/nome-do-projeto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=brayanvieira&repo=nome-do-projeto&theme=radical" />
+  </a>
+  <a href="https://github.com/brayanvieira/nome-do-projeto-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=brayanvieira&repo=nome-do-projeto-2&theme=radical" />
+  </a>
+</p>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/brayan-vieira-1037362b7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:vieirabrayan813@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-red?logo=gmail&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 🚀 Em constante evolução
+
+<p align="center">
+  Estou sempre aprendendo e explorando novas tecnologias para me manter atualizado na área de desenvolvimento.
+  <br>
+  Se você tiver uma ideia ou projeto e quiser colaborar, <strong>vamos conversar!</strong>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif" />
+</p>
+
+</details>
+
+---
+
+<details>
+  <summary>🇺🇸 English (click to expand)</summary>
+
+## 👨‍💻 About Me
+
+I’m a **Fullstack Developer** with over **3 years of experience** in software development, IT infrastructure, and technical support.
+
+I’m passionate about building scalable, modern, and user-focused solutions. I love learning new technologies, working in teams, and solving real-world problems in creative and efficient ways.
+
+---
+
+## 🎓 Education & Certifications
+
+### 🎓 Academic Background
+- **Cruzeiro do Sul (2022–2025)**  
+  ✅ Systems Analysis and Development – **Completed**
+
+### 🧠 Courses & Specializations
+
+**HashTag Training**
+- 2023: Python Impressionador – ✅ Completed  
+- 2023: HTML & CSS – ✅ Completed  
+- 2023: VBA – ✅ Completed  
+- 2023: Artificial Intelligence – ✅ Completed  
+- 2024: JavaScript – ✅ Completed  
+- 2024: SQL – ✅ Completed  
+
+**Udemy**
+- 2022: Graphic Design with Corel Draw – ✅ Completed  
+- 2022: Mechanical Drawing – ✅ Completed  
+
+**Data Science Academy**
+- 2022: Big Data Fundamentals – ✅ Completed  
+- 2022: Introduction to Data Science – ✅ Completed  
+
+**DIO**
+- 2023: Introduction to UI/UX – ✅ Completed  
+
+**CNA**
+- 2024: Advanced English (Fluent) – ✅ Completed  
+
+---
+
+## 💡 Skills & Soft Abilities
+
+- ✅ Critical Thinking  
+- ✅ Works Well Under Pressure  
+- ✅ Leadership  
+- ✅ Project Management  
+- ✅ Problem Solving  
+- ✅ Effective Communication  
+- ✅ Security-Oriented  
+- ✅ Adaptability & Flexibility  
+- ✅ Decision-Making  
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,python,flask,nodejs,express,mysql,postgres,mongodb,docker,git,github,linux,figma,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brayanvieira&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=brayanvieira&theme=radical&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brayanvieira&theme=react-dark&area=true&hide_border=true" width="95
