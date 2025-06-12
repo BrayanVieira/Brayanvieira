@@ -1,5 +1,3 @@
-me ajude a melhorar a parte do Github insights
-
 <!-- Banner animado moderno -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:33ccff,100:000000&height=230&section=header&text=Brayan%20Gonçalves%20Vieira&fontSize=40&fontColor=ffffff&animation=fadeIn" />
