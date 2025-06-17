@@ -19,7 +19,6 @@
 Com mais de **3 anos de experiência** no desenvolvimento de software, atuo como Desenvolvedor Fullstack, com um histórico comprovado na criação de soluções robustas e eficientes. Minha paixão reside em transformar ideias complexas em aplicações funcionais e escaláveis, sempre buscando aprimoramento contínuo e a aplicação das melhores práticas de mercado.
 
 **Principais áreas de atuação:**
-
 - Desenvolvimento de aplicações web completas (frontend + backend)
 - Arquitetura de software e design de sistemas
 - Otimização de performance e escalabilidade
@@ -32,25 +31,21 @@ Com mais de **3 anos de experiência** no desenvolvimento de software, atuo como
 <br>
 
 **Frontend Development:**
-
 - React.js, JavaScript (ES6+), TypeScript
 - HTML5, CSS3, Bootstrap, Tailwind CSS
 - Responsive Design e Mobile-First
 
 **Backend Development:**
-
 - Python (Flask, FastAPI), Node.js (Express)
 - APIs RESTful e GraphQL
 - Microserviços e arquitetura distribuída
 
 **Banco de Dados:**
-
 - MySQL, PostgreSQL, MongoDB
 - Design de esquemas e otimização de queries
 - Redis para cache e sessões
 
 **DevOps & Ferramentas:**
-
 - Docker, Git/GitHub, Linux
 - CI/CD, Deploy automatizado
 - Monitoramento e logging
@@ -62,13 +57,11 @@ Com mais de **3 anos de experiência** no desenvolvimento de software, atuo como
 <br>
 
 **Metodologias:**
-
 - Desenvolvimento Ágil (Scrum, Kanban)
 - Test-Driven Development (TDD)
 - Clean Code e SOLID principles
 
 **Soft Skills:**
-
 - Pensamento crítico e resolução de problemas
 - Comunicação eficaz e trabalho em equipe
 - Adaptabilidade e aprendizado contínuo
@@ -84,12 +77,12 @@ Com mais de **3 anos de experiência** no desenvolvimento de software, atuo como
 
 <div align="center">
 
-| **Área**            | **Certificação**               | **Instituição**      |
-| ------------------- | ------------------------------ | -------------------- |
+| **Área** | **Certificação** | **Instituição** |
+|----------|------------------|-----------------|
 | **Desenvolvimento** | Python, JavaScript, HTML & CSS | HashTag Treinamentos |
-| **Dados & IA**      | Big Data, Ciência de Dados     | Data Science Academy |
-| **Design**          | UI/UX Design                   | DIO                  |
-| **Idiomas**         | Inglês Avançado (Fluente)      | CNA                  |
+| **Dados & IA** | Big Data, Ciência de Dados | Data Science Academy |
+| **Design** | UI/UX Design | DIO |
+| **Idiomas** | Inglês Avançado (Fluente) | CNA |
 
 </div>
 
@@ -99,22 +92,32 @@ Com mais de **3 anos de experiência** no desenvolvimento de software, atuo como
 
 <div align="center">
   <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,bootstrap,tailwind&theme=dark" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=html,css,vue,bootstrap,tailwind&theme=dark" />
 </div>
 
 <div align="center">
   <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,express,flask,fastapi,java,spring&theme=dark" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=express,flask,fastapi,spring&theme=dark" />
 </div>
 
 <div align="center">
   <h3>Banco de Dados & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,aws,gcp&theme=dark" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase,gcp&theme=dark" />
 </div>
 
 <div align="center">
   <h3>Ferramentas & DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,vscode,figma&theme=dark" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=git,kubernetes,linux,vscode,figma&theme=dark" />
 </div>
 
 ---
@@ -169,13 +172,11 @@ Com mais de **3 anos de experiência** no desenvolvimento de software, atuo como
 <div align="center">
 
 **Atualmente estudando:**
-
 - Arquitetura de Microserviços
 - Cloud Computing (AWS/Azure)
 - Machine Learning com Python
 
 **Próximos objetivos:**
-
 - Certificação em Cloud
 - Contribuições Open Source
 - Desenvolvimento Mobile
@@ -197,6 +198,21 @@ Com mais de **3 anos de experiência** no desenvolvimento de software, atuo como
 
 ---
 
+## 🎯 Tecnologias em Destaque
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
+</div>
+
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=brayanvieira&color=00f7ff&style=flat-square&label=Visualizações" alt="Profile Views" />
 </div>
@@ -206,3 +222,4 @@ Com mais de **3 anos de experiência** no desenvolvimento de software, atuo como
   <em>Feito com ❤️ e muito ☕ por Brayan Gonçalves Vieira</em>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
 </div>
+
